@@ -29,6 +29,7 @@ public class MainActivity extends Activity {
         // TODO: 11-Feb-17 Paging on the wine api
         // TODO: 11-Feb-17 add search of wine
         // TODO: 11-Feb-17 add wine local from user 
+        // TODO: 11-Feb-17 Teach alex the architecture 
         // Requesting permission if needed
         if (!hasPermission) {
             ActivityCompat.requestPermissions(this,
