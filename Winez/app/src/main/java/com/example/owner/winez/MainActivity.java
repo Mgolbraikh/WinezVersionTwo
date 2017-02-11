@@ -25,6 +25,10 @@ public class MainActivity extends Activity {
         boolean hasPermission = (ContextCompat.checkSelfPermission(this,
                 android.Manifest.permission.WRITE_EXTERNAL_STORAGE) == PackageManager.PERMISSION_GRANTED);
 
+
+        // TODO: 11-Feb-17 Paging on the wine api
+        // TODO: 11-Feb-17 add search of wine
+        // TODO: 11-Feb-17 add wine local from user 
         // Requesting permission if needed
         if (!hasPermission) {
             ActivityCompat.requestPermissions(this,
