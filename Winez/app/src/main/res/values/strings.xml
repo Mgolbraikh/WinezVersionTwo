@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Winez</string>
+
+    <string name="Entence">Winez</string>
+    <string name="Entence_Hello">Winez</string>
+    <string name="Entence_Name">Name</string>
+    <string name="Entence_Email">Email</string>
+    <string name="Entrence_Password">Password</string>
+    <string name="Entence_Enter">Lets Go!</string>
+    <string name="reg_who">Who are you?</string>
+    <string name="reg_hello">Hello!</string>
+    <string name="reg_pass_hint">Your\'s to decide...</string>
+    <string name="reg_email_hint">someone@domain.com</string>
+    <string name="reg_name_hint">Your name</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="price">Price</string>
+    <string name="type">Type</string>
+    <string name="vintage_year">Vintage Year</string>
+    <string name="enter_comment">Enter comment</string>
+    <string name="comments">Comments</string>
+    <string name="logoff">Logoff</string>
+    <string name="your_list_is_empty">Your list is empty. :(</string>
+    <string name="makaf">-</string>
+    <string name="add_picture">Add picture</string>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/menu_add_picture"
+            android:title="@string/add_picture"
+            android:showAsAction="withText"/>
+        <item android:id="@+id/menu_signout"
+            android:title="@string/logoff"
+            android:showAsAction="withText"/>
+</menu>

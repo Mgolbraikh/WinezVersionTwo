@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "571436100198",
+    "firebase_url": "https://winez-f83c5.firebaseio.com",
+    "project_id": "winez-f83c5",
+    "storage_bucket": "winez-f83c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571436100198:android:ad93f6b1e7bd1026",
+        "android_client_info": {
+          "package_name": "com.example.owner.winez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571436100198-scnt1ld5mjqt8rpvnb6g1pqvgtrue5rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owner.winez",
+            "certificate_hash": "59D80A055333A3972124F93AB7D2926E4A95F3AD"
+          }
+        },
+        {
+          "client_id": "571436100198-m27mtfau699kpla8prn4gemhub8tmvmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owner.winez",
+            "certificate_hash": "8EA15A6D48D35003F59DF5E0BB0DE75C81A96729"
+          }
+        },
+        {
+          "client_id": "571436100198-f7hv66561bdhm3ep2pe769ggelsuporl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE19e9zMeM4l5mN8tWzZqExz0dee2MqGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571436100198-f7hv66561bdhm3ep2pe769ggelsuporl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
